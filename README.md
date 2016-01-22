@@ -33,3 +33,6 @@ p = mr.Multirun()
 res = p.map(worker, arg_gen())
 print(res)
 ```
+
+# TODO
+- [ ] realtime stdout in IPython
