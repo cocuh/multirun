@@ -11,7 +11,7 @@ $ pip install git+https://github.com/cocuh/pymultirun.git
 
 avoid to zombinize when you terminate process in ipython.
 
-```
+```python
 import multirun as mr
 import time
 
