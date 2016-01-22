@@ -1,5 +1,10 @@
 # what's this
-extension `multiprocessing.Pool` in Python
+extension `multiprocessing.Pool` in Python. in specially, ipython.
+
+# how to install
+```
+$ pip install git+https://github.com/cocuh/pymultirun.git
+```
 
 # how to use
 ただ並列処理したいだけなのにtryとかめんじょい処理を書くのがめんどくさかったとときに使う
